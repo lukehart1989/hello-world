@@ -1,3 +1,2 @@
 # hello-world
-demo
-branchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranch
+print('hello world)
